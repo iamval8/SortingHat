@@ -32,5 +32,6 @@ public class SortingHat {
                 }
             }
         }
+        System.out.println("Thank you for coming to Hogwarts!");
     }
 }
